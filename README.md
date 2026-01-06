@@ -60,8 +60,3 @@ I lead end-to-end data initiatives, from architecture and tooling to team leader
 ### 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roee-nachman-b9573092)
 
----
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=r0eenac&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0eenac&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" height="150" alt="languages graph" />
-</div>
