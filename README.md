@@ -1,9 +1,12 @@
 # Hi there, I'm Roee Nachman 👋
 
-> **Head of Data & Analytics | Data Architect | Python & AI Enthusiast**
+> **Head of Data & Analytics | Data Architect | Python & Applied AI**
+
 
 I'm a Data Strategy Leader and Solution Architect based in Israel. My core expertise lies in designing **scalable data ecosystems**, building resilient **ETL/ELT pipelines**, and translating complex datasets into clear business insights.
 In my spare time, I apply the same engineering rigor to my **Smart Home**, turning my house into a fully automated, data-driven lab.
+I lead end-to-end data initiatives — from architecture and tooling to team leadership and production ownership.
+
 
 ---
 
@@ -12,6 +15,8 @@ In my spare time, I apply the same engineering rigor to my **Smart Home**, turni
 - 🤖 Integrating **GenAI & Local LLMs** into production workflows.
 - 🔄 Orchestrating complex automation pipelines using **n8n & Python**.
 - 🏠 Maintaining a privacy-focused, local-control **Smart Home (Home Assistant)**.
+- 📈 Building monitoring, alerting, and data-quality guardrails for production systems.
+
 
 ---
 
@@ -23,7 +28,6 @@ In my spare time, I apply the same engineering rigor to my **Smart Home**, turni
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Google Sheets API](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 
 **Automation & AI**
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
@@ -45,6 +49,7 @@ In my spare time, I apply the same engineering rigor to my **Smart Home**, turni
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 ![ESPHome](https://img.shields.io/badge/ESPHome-000000?style=for-the-badge&logo=esphome&logoColor=white)
 ![Tasmota](https://img.shields.io/badge/Tasmota-1fa3ec?style=for-the-badge&logo=arduino&logoColor=white)
+> A real-world automation lab for reliability, edge logic, and privacy-first design.
 
 **Languages**
 ![Hebrew](https://img.shields.io/badge/Hebrew-Native-005EB8?style=flat-square)
