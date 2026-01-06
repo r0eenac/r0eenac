@@ -5,7 +5,7 @@
 
 I'm a Data Strategy Leader and Solution Architect based in Israel. My core expertise lies in designing **scalable data ecosystems**, building resilient **ETL/ELT pipelines**, and translating complex datasets into clear business insights.
 In my spare time, I apply the same engineering rigor to my **Smart Home**, turning my house into a fully automated, data-driven lab.
-I lead end-to-end data initiatives — from architecture and tooling to team leadership and production ownership.
+I lead end-to-end data initiatives, from architecture and tooling to team leadership and production ownership.
 
 
 ---
